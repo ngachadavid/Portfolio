@@ -1,3 +1,4 @@
+
 import portfolios from "../../assets/data/portfolioData";
 
 const Modal = ({activeID, setShowModal}) => {

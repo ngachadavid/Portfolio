@@ -22,7 +22,7 @@ const Hero = () => {
                        data-aos="fade-up"
                        data-aos-duration="1500"
                        className='text-headingColor font-[800] text-[1.8rem] sm:text-[40px] leading-[35px] sm:leading-[46px] mt-5'
-                       > I'm David Ngacha <br />
+                       > I'm David Mwangi <br />
                        Software Developer
                     </h1>
 
@@ -35,9 +35,12 @@ const Hero = () => {
                     {/* <span>
                         <i class="ri-apps-2-line"></i>
                     </span>     */}
-                     Full Stack Developer, armed with a IT degree from Moi University and a Software Engineering certification from Moringa School, 
-                     Passionate about crafting top-notch web applications, embracing industry trends, and collaborating to achieve 
-                     greatness in the development realms. Let's build something extraordinary together
+                     Full Stack Developer, with a focus on discovering solutions,
+                     skilled at contributing to highly collaborative worked environments.
+                     Demonstrated expertise with HTML, CSS, Javascript, ReactJs, Ruby and Ruby on Rails
+                     to create websites witha strong focus on the user.
+                     Good understanding of user experience and web design best practices.
+                     Let's build something extraordinary together
 
                     </p>
 
