@@ -11,11 +11,11 @@ const portfolios = [
     id: "01",
     imgUrl: portfolioImg01,
     category: "Web Design",
-    title: "Beauty Bliss",
+    title: "Movers App",
     description:
-    " Beauty Bliss is an e-commerce beauty shop powered by Rails API and React. It offers a wide range of products, including skincare, makeup, and haircare. With an admin section for inventory management and order tracking, it ensures efficient operations. Beauty Bliss provides secure transactions and a personalized user experience for seamless shopping.",
+    " The Movers App, an all in one platform that simplifies the moving process from start to finish.",
     technologies: ["React", "Tailwind css", "Rails", "Postgresql"],
-    siteUrl: "https://beauty-bliss-ul2a.vercel.app/",
+    siteUrl: "https://moversapp.vercel.app/",
   },
   {
     id: "02",
